@@ -9,7 +9,7 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20
-baseurl: /conductor-mobile
+baseurl: /conductor-mobile/
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
